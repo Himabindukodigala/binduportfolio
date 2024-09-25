@@ -1,0 +1,121 @@
+.bg-container {
+    background-color: rgb(107, 140, 172);
+    padding: 20px;
+   
+}
+
+.navbar-brand {
+    border-style: solid;
+    border-color: aqua;
+    border: 15;
+    padding: 20px;
+}
+
+.text {
+
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.image {
+    width: vw;
+    height: 45vh;
+    border-radius: 300px;
+}
+
+.image2 {
+    width: vw;
+    height: 44vh;
+    border-radius: 350px;
+}
+
+.head {
+    color: aqua;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: 'roboto';
+}
+
+p {
+    color: azure;
+    font-size: 20px;
+    font-family: 'roboto';
+}
+
+button {
+    color: #ffffff;
+    background-color: rgb(136, 209, 209);
+
+
+    border: 0;
+
+}
+
+.button1 {
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: 'roboto';
+    height: 40px;
+    width: 35vw;
+    text-align: center;
+
+}
+
+h2 {
+    color: rgb(146, 161, 235);
+    font-size: 45px;
+    font-family: 'roboto';
+
+    font-weight: bold;
+
+}
+
+.head2 {
+    color: #ede6e6;
+    font-family: 'roboto';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'roboto';
+    font-size: 20px;
+
+    color: rgb(231, 238, 238);
+}
+
+.pic {
+
+    height: 20vh;
+    width: 40vw;
+    border-radius: 30px;
+    padding-right: 30px;
+}
+
+h3 {
+    color: #ede6e6;
+    font-family: 'roboto';
+
+
+}
+
+.image1 {
+    height: 30vh;
+    width: 35vw;
+    border-radius: 10px;
+}
+
+h4 {
+
+    color: rgb(146, 161, 235);
+    font-size: 25px;
+    font-family: 'roboto';
+
+    font-weight: bold;
+
+
+}
